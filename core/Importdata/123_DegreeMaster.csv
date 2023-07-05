@@ -1,0 +1,6 @@
+SchoolID,DegreeID,DegreeName,DegreeCode,CourseLevel
+123,1,BE,1,UG
+123,2,B.Tech,2,UG
+123,3,ME,3,PG
+123,4,M.Tech,4,PG
+123,5,BCA,5,UG

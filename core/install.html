@@ -1,0 +1,28 @@
+<html>
+<head>
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gcm-notifications/beijiicpmikgfldbaelpaigcfdpafjmk">
+
+</head>
+<body>
+<a onClick="chromeExtensionInstall()"><button onclick="chromeExtensionInstall()" id="install-button">Add to Chrome</button></a>
+<script>
+if (chrome.app.isInstalled) {
+  document.getElementById('install-button').style.display = 'none';
+}
+function chromeExtensionInstall()
+{
+    if (!chrome.app.isInstalled) {
+        chrome.webstore.install('https://chrome.google.com/webstore/detail/gcm-notifications/beijiicpmikgfldbaelpaigcfdpafjmk');
+    }
+}
+
+function successCallback () {
+    window.alert('success');
+}
+
+
+
+</script>
+
+</body>
+</html>

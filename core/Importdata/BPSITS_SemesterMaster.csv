@@ -1,0 +1,2 @@
+SchoolID, BranchID, SemesterID, SemesterName, SemesterCredit, IsRegularSemester, BranchName, DepartmentName, CourseLevel, Class, IsEnabled
+BPSITS,10,1,Sem ? 1,1,1,IT,IT,UG,BE,1

@@ -1,0 +1,6 @@
+SchoolID, StudentID, SubjectCode, SemesterID, BranchID, SubjectID, YearID, DivisionID, SubjectName, Division, Semester, Branch, Department, CourseLevel, AcademicYear, TeacherID
+123,15001,SC-9001,3,2,1,1,4,SmartCookie,DIV_ANDRIOD,Semester I,ANDROID ,ANDROID_WL,UG,2016-2017,1002
+123,15002,VH-9003,6,3,2,1,2,PanHeath,DIV_IOS,Semester I,IOS,IOS_WL,PG,2016-2017,1003
+123,15003,SC-9001,3,2,1,1,4,SmartCookie,DIV_ANDRIOD,Semester I,ANDROID ,ANDROID_WL,UG,2016-2017,1002
+123,15004,VH-9003,6,3,2,1,2,PanHeath,DIV_IOS,Semester I,IOS,IOS_WL,PG,2016-2017,1003
+123,15005,VH-9003,3,2,2,1,4,PanHeath,DIV_ANDRIOD,Semester I,ANDROID ,ANDROID_WL,PG,2016-2017,1003

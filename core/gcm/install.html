@@ -1,0 +1,26 @@
+<html>
+<head>
+<link rel="chrome-webstore-item"
+  href="https://chrome.google.com/webstore/detail/beijiicpmikgfldbaelpaigcfdpafjmk" />
+</head>
+<body>
+<button onClick="chrome.webstore.install()" id="install-button">Add to Chrome</button>
+<script>
+function successCallback () {
+    window.alert('success');
+}
+
+function failureCallback () {
+    window.alert('failure');
+}
+
+$scope.chromeExtensionInstall = function() {
+    if (!chrome.app.isInstalled) {
+        chrome.webstore.install('https://chrome.google.com/webstore/detail/dcjnfaoifoefmnbhhlbppaebgnccfddf',
+            successCallback(), failureCallback());
+    }
+};
+
+</script>
+</body>
+</html>

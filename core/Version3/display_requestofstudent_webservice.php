@@ -1,0 +1,80 @@
+<?php  
+//$json=$_GET ['json'];
+$json = file_get_contents('php://input');
+$obj = json_decode($json);
+
+ $format = 'json'; //xml is the default
+
+include '../conn.php';
+
+
+//input from user
+    $stud_id1=$obj->{'stud_id1'};
+	/// Start SMC-3450 Modify By Pravin 2018-09-21 04:15 PM 
+    $school_id=$obj->{'school_id'};
+
+	
+	
+    if($stud_id1!="" && $school_id!='')//SMC-3450
+	{
+	
+	
+		
+		    //retrive info from tbl_master  for each activity
+					$arr1=mysql_query("select r.stud_id1 as stud_id,r.requestdate,r.points,r.reason,r.id,s.std_complete_name from tbl_request r  left join tbl_student s on r.school_id=s.school_id and r.stud_id1=s.std_PRN where r.stud_id2='$stud_id1' and r.school_id= '$school_id' and r.flag='N' and r.entitity_id='105' order by r.id desc");//SMC-3450
+  
+  				/* create one master array of the records */
+  			$posts = array();
+  			if(mysql_num_rows($arr1)>=1) {
+    			while($post = mysql_fetch_assoc($arr1)) {
+				$st_id=$post['stud_id'];
+				$request_date=$post['requestdate'];
+				$reason=$post['reason'];
+				$points=$post['points'];
+				$id=$post['id'];
+				$std_name=$post['std_complete_name'];
+					
+					$posts[]=array("request_id"=>$id,"std_name"=>$std_name,"stud_id"=>$st_id,"requestdate"=>$request_date,"reason"=>$reason,"points"=>$points);
+					
+      				
+					
+					$postvalue['responseStatus']=200;
+				$postvalue['responseMessage']="OK";
+				$postvalue['posts']=$posts;
+				
+    			}
+  			}
+				else
+  				{
+  					$postvalue['responseStatus']=204;
+								$postvalue['responseMessage']="No Response";
+								$postvalue['posts']=null;
+  				}
+  			
+  					/* output in necessary format */
+  					if($format == 'json') {
+							header('Content-type: application/json');
+    						 echo json_encode($postvalue);
+						}
+ 				
+				 
+				
+		}
+	else
+			{
+			   $postvalue['responseStatus']=1000;
+				$postvalue['responseMessage']="Invalid Input";
+				$postvalue['posts']=null;
+			  
+			  header('Content-type: application/json');
+   			  echo  json_encode($postvalue); 
+			}	
+			
+			
+			
+ 
+  /* disconnect from the db */
+  @mysql_close($link);	
+	
+		
+  ?>

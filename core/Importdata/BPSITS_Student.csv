@@ -1,0 +1,9 @@
+SchoolID, StudentPRN,StudentName,PhoneNo,BranchName,YearID,Gender,EmailID,Country,FatherName,DOB,Class,PermanentAddress,City,TemporaryAddress,PermanentVillage,PermanentTaluka,PermanentDistrict,PermanentPincode,InternalEmailID,Specialization,CourseLevel,AcademicYear,Department
+BPSITS,1001,Shubhangi lad,9075008028,IT,1001,Female,ladshubhangi01@gmail.com,India,Hanmant lad,9-12-1994,BE,"A/p-Maligre,tal-ajara,dist -kolhapur",kolhapur,"Ganesh mandir,dange chowk,thergaon,pune.",Maligre,Ajara,Kolhapur,416503,ladshubhangi01@gmail.com,IT,UG,2016,IT
+BPSITS,1002,Renuka avad,9168464158,IT,1001,Female,avhad.renuka21@gmail.com,India,vinayak avad,22-9-1995,BE,nashik,nashik,warge malwadi,nashik,nashik,nashik,422001,avhad.renuka21@gmail.com,IT,UG,2016,IT
+BPSITS,1003,Vandna narle,9665361375,IT,1001,Female,vandnanarele123@gmail.com,india,vasant,5-8-1993,BE,Solapur,solapur,solapur,solapur,solapur,solapur,413001,vandnanarale123@gmail.com,IT,UG,2016,IT
+BPSITS,1004,Shubhangi funde,8421205787,IT,1001,Female,sshubhangis90@gmail.com,india,Keshav,9-10-1993,BE,Nagpur,nagpur,nagpur,nagpur,nagpur,nagpur,440001,sshubhangis90@gmail.com,IT,UG,2016,IT
+BPSITS,1005,Shital bhor,8983949604,IT,1001,Female,bhorshital06@gmail.com,india,gajanan,8-6-1994,BE,Nigadi,Nigadi,Nigadi,Nigadi,nigadi,nigadi,411044,bhorshital06@gmail.com,IT,UG,2016,IT
+BPSITS,1006,Shneha kulkarni,8237115204,IT,1001,Female,snehakulkarni877@gmail.com,india,hemant,7-4-1995,BE,Karve rd pune,pune,Karve rd pune,Pune,Pune,Pune,411052,snehakulkarni877@gmail.com,IT,UG,2016,IT
+BPSITS,1007,Meghna bankar,7774969431,IT,1001,Female,megna.bankar@gmail.com,india,sushant,8-5-1992,BE,Pune,Pune ,Pune,Pune,Pune,Pune,411052,megna.bankar@gmail.com,IT,UG,2016,IT
+BPSITS,1008,Dev raiput,9403087981,IT,1001,male,devrajput557@gmail.com,india,laxmun,5-5-1995,BE,Pune,Pune,Pune,Pune,Pune,Pune,411052,devrajput557@gmail.com,IT,UG,2016,IT

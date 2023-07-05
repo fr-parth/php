@@ -1,0 +1,3 @@
+SchoolID, TeacherID, SubjectID, SubjectCode, SubjectName, YearID, DivisionID, Division, SemesterID, Semester, BranchID, Branch,DepartmentID, Department, CourseLevel, Academic Year
+123,1002,1,SC-9001,SmartCookie,1,,DIV_ANDRIOD,3,Semester I,2,ANDROID ,3,ANDROID_WL,UG,2016-2017
+123,1003,2,VH-9003,PanHeath,1,,DIV_IOS,6,Semester I,3,IOS,2,IOS_WL,PG,2016-2017

@@ -1,0 +1,27 @@
+SchoolID, DepartmentCode, DepartmentName, DepartmentID, EstablimentYear, PhoneNo, FaxNo, EmailID, IsEnabled
+COEP,17,Applied Science,1,,20-25507032,NULL,hod@coep.org.in,1
+COEP,8,Production Engineering and Industrial Management,2,,20-25507281,NULL,hod.prod@coep.org.in,1
+COEP,7,Metallurgy and Material Science ,3,,20-255077261,NULL,hod.meta@coep.ac.in,1
+COEP,6,Mechanical Engineering ,4,,20-25507221,NULL,hod.mech@coep.ac.in,1
+COEP,5,Instrumentation and Control Engineering ,5,,20-25507171,NULL,hod.instru@coep.ac.in,1
+COEP,4,Electronics and TeleCommunication Engineering ,6,,20-25507141,NULL,hod.extc@coep.ac.in,1
+COEP,3,Electrical Engineering ,7,,20-25507111,NULL,hod.elecc@coep.ac.in,1
+COEP,2,Computer Engineering and Information Technology,8,,20-25507091,2313,hod.comp@coep.ac.in,1
+COEP,1,Civil Engineering ,9,,20-25507041,2313,hod.civil@coep.ac.in,1
+COEP,16,Alumni Association ,10,,20-25507021,2313,alumni.coep@coep.ac.in,1
+COEP,15,Training and Placement ,11,,20-25507147,2313,t_and_p@coep.ac.in,1
+COEP,14,Gymkhana ,12,,20-25507066,2313,pmr@civil.coep.ac.in,1
+COEP,13,Student Section ,13,,20-25507062,2313,dean_acda@coep.ac.in,1
+COEP,12,Library ,14,,20-25507191,2313,librarian@coep.ac.in,1
+COEP,10,Accounts ,15,,20-25507010,2313,account@coep.ac.in,1
+COEP,11,Establishment ,16,,20-25507007,2313,ao@coep.ac.in,1
+COEP,9,Administration ,17,,20-25507281,2313,administrator@coep.ac.in,1
+COEP,19,Physics,18,,2025507032,2313,hod.physics@coep.ac.in,1
+COEP,25,Mathematics ,19,,2025507211,2313,hod.maths@coep.ac.in,1
+COEP,21,Exam cell ,20,,020-25507017,2313,examcell@coep.ac.in,1
+COEP,28,Planning ,21,,20-25507067,12313,hod@civil.coep.ac.in,1
+COEP,29,Town and Country Planning,22,,9999,9999,planning@coep.ac.in,1
+COEP,30,Chemistry,23,,1234567890,NULL,abc@coep.ac.in,1
+COEP,99,Virtual Lab,25,,99999,12345,ask.vlab@coep.ac.in,1
+COEP,98,MIS Department,26,,7107,NULL,mishelp@coep.ac.in,1
+COEP,40,IIIT Pune,27,,21545454,NULL,mishelp@coep.ac.in,0

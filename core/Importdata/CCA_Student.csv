@@ -1,0 +1,11 @@
+SchoolID, StudentPRN,StudentName,PhoneNo,BranchName,YearID,Gender,EmailID,Country,FatherName,DOB,Class,PermanentAddress,City,TemporaryAddress,PermanentVillage,PermanentTaluka,PermanentDistrict,PermanentPincode,InternalEmailID,Specialization,CourseLevel,AcademicYear,Department
+CCA,123,asdasd,a,a,2016,male,aaa@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,,qwerd,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,,erd,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,145,erd,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,155,,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,152,zxc,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,115,cvb,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,145,cvb,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,146, ,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a
+CCA,446,Chaita,a,a,2016,male,qwea@a,in,a,a,a,a,a,a,a,a,a,a,a,a,a,2016-17,a

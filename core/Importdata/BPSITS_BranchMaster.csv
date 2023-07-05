@@ -1,0 +1,2 @@
+SchoolID, BranchID, Branch, Specialization, Duration, IsEnabled, DepartmentName, CourseName
+BPSITS,11,IT,IT,1 YEAR,1,IT,BE

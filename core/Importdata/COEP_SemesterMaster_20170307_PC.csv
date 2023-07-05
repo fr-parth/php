@@ -1,0 +1,197 @@
+SchoolID, BranchID, SemesterID, SemesterName, SemesterCredit, IsRegularSemester, BranchName, DepartmentName, CourseLevel, Class, IsEnabled
+COEP,2,3,Semester I,22,1,Civil Engineering,Civil Engineering ,UG,F.Y.B.Tech.,0
+COEP,2,4,Semester II,20,1,Civil Engineering,Civil Engineering ,UG,F.Y.B.Tech.,1
+COEP,3,5,Semester I,20,1,Computer Engineering,Computer Engineering and Information Technology,UG,F.Y.B.Tech.,0
+COEP,3,6,Semester II,22,1,Computer Engineering,Computer Engineering and Information Technology,UG,F.Y.B.Tech.,1
+COEP,4,7,Semester I,20,1,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,F.Y.B.Tech.,0
+COEP,4,8,Semester II,22,1,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,F.Y.B.Tech.,1
+COEP,5,9,Semester I,20,1,Information Technology ,Computer Engineering and Information Technology,UG,F.Y.B.Tech.,0
+COEP,5,10,Semester II,22,1,Information Technology ,Computer Engineering and Information Technology,UG,F.Y.B.Tech.,1
+COEP,6,11,Semester I,20,1,Instrumentation and Control Engineering ,Instrumentation and Control Engineering ,UG,F.Y.B.Tech.,0
+COEP,6,12,Semester II,22,1,Instrumentation and Control Engineering ,Instrumentation and Control Engineering ,UG,F.Y.B.Tech.,1
+COEP,7,13,Semester I,22,1,Mechanical Engineering,Mechanical Engineering ,UG,F.Y.B.Tech.,0
+COEP,7,14,Semester II,20,1,Mechanical Engineering,Mechanical Engineering ,UG,F.Y.B.Tech.,1
+COEP,8,15,Semester I,22,1,Metallurgical Engineering,Metallurgy and Material Science ,UG,F.Y.B.Tech.,0
+COEP,8,16,Semester II,20,1,Metallurgical Engineering,Metallurgy and Material Science ,UG,F.Y.B.Tech.,1
+COEP,11,19,Semester I,21,1,Planning,Planning ,UG,F.Y.B.Tech.,0
+COEP,11,20,Semester II,21,1,Planning,Planning ,UG,F.Y.B.Tech.,1
+COEP,40,21,Semester I,19,1,Enterprise Resource Planning,Production Engineering and Industrial Management,PG Diploma,PGD-ERP,0
+COEP,40,22,Semester II,16,1,Enterprise Resource Planning,Production Engineering and Industrial Management,PG Diploma,PGD-ERP,0
+COEP,40,23,Semester III,15,1,Enterprise Resource Planning,Production Engineering and Industrial Management,PG Diploma,PGD-ERP,0
+COEP,9,25,Semester I,22,1,Production Engineering (Sandwich),Production Engineering and Industrial Management,UG,F.Y.B.Tech.,0
+COEP,9,26,Semester II,20,1,Production Engineering (Sandwich),Production Engineering and Industrial Management,UG,F.Y.B.Tech.,1
+COEP,1,27,Semester I,20,1,Electrical Engineering,Electrical Engineering ,UG,F.Y.B.Tech.,0
+COEP,1,28,Semester II,22,1,Electrical Engineering,Electrical Engineering ,UG,F.Y.B.Tech.,1
+COEP,39,33,Semester I,22,1,Town and Country Planning,Planning ,PG,F.Y.M.Tech.,0
+COEP,39,34,Semester II,21,1,Town and Country Planning,Planning ,PG,F.Y.M.Tech.,1
+COEP,39,35,Semester III,19,1,Town and Country Planning,Planning ,PG,S.Y.M.Tech,0
+COEP,39,36,Semester IV,18,1,Town and Country Planning,Planning ,PG,S.Y.M.Tech,1
+COEP,36,37,Semester I,20,1,Project Management,Production Engineering and Industrial Management,PG,F.Y.M.Tech.,0
+COEP,36,38,Semester II,22,1,Project Management,Production Engineering and Industrial Management,PG,F.Y.M.Tech.,1
+COEP,36,39,Semester III,16,1,Project Management,Production Engineering and Industrial Management,PG,S.Y.M.Tech,0
+COEP,36,40,Semester IV,20,1,Project Management,Production Engineering and Industrial Management,PG,S.Y.M.Tech,1
+COEP,2,41,Semester V,23,1,Civil Engineering,Civil Engineering ,UG,T.Y.B.Tech.,0
+COEP,38,45,Semester I,20,1,Mechatronics,Production Engineering and Industrial Management,PG,F.Y.M.Tech.,0
+COEP,38,46,Semester II,22,1,Mechatronics,Production Engineering and Industrial Management,PG,F.Y.M.Tech.,1
+COEP,38,47,Semester III,16,1,Mechatronics,Production Engineering and Industrial Management,PG,S.Y.M.Tech,0
+COEP,38,48,Semester IV,20,1,Mechatronics,Production Engineering and Industrial Management,PG,S.Y.M.Tech,1
+COEP,39,49,Semester I,19,1,Town and Country Planning,Planning ,PG,F.Y.B.Tech.,0
+COEP,18,51,Semester I,20,1,Instrumentation and Control Engineering,Instrumentation and Control Engineering ,PG,F.Y.M.Tech.,0
+COEP,30,52,Semester I,20,1,Instrumentation and Control Engineering,Instrumentation and Control Engineering ,PG,F.Y.M.Tech.,0
+COEP,4,55,Summer I,21,0,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,F.Y.B.Tech.,0
+COEP,1,56,Summer I,21,0,Electrical Engineering,Electrical Engineering ,UG,F.Y.B.Tech.,0
+COEP,2,57,Summer I,21,0,Civil Engineering,Civil Engineering ,UG,F.Y.B.Tech.,0
+COEP,3,58,Summer I,21,0,Computer Engineering,Computer Engineering and Information Technology,UG,F.Y.B.Tech.,0
+COEP,5,59,Summer I,21,0,Information Technology ,Computer Engineering and Information Technology,UG,F.Y.B.Tech.,0
+COEP,6,60,Summer I,21,0,Instrumentation and Control Engineering ,Instrumentation and Control Engineering ,UG,F.Y.B.Tech.,0
+COEP,7,61,Summer I,21,0,Mechanical Engineering,Mechanical Engineering ,UG,F.Y.B.Tech.,0
+COEP,8,62,Summer I,21,0,Metallurgical Engineering,Metallurgy and Material Science ,UG,F.Y.B.Tech.,0
+COEP,9,63,Summer I,21,0,Production Engineering (Sandwich),Production Engineering and Industrial Management,UG,F.Y.B.Tech.,0
+COEP,11,64,Summer I,21,0,Planning,Planning ,UG,F.Y.B.Tech.,0
+COEP,2,65,Semester III,22,1,Civil Engineering,Civil Engineering ,UG,S.Y.B.Tech.,0
+COEP,4,66,Semester III,22,1,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,S.Y.B.Tech.,0
+COEP,3,67,Semester III,21,1,Computer Engineering,Computer Engineering and Information Technology,UG,S.Y.B.Tech.,0
+COEP,5,68,Semester III,21,1,Information Technology ,Computer Engineering and Information Technology,UG,S.Y.B.Tech.,0
+COEP,1,69,Semester III,21,1,Electrical Engineering,Electrical Engineering ,UG,S.Y.B.Tech.,0
+COEP,7,71,Semester III,21,1,Mechanical Engineering,Mechanical Engineering ,UG,S.Y.B.Tech.,0
+COEP,6,72,Semester III,19,1,Instrumentation and Control Engineering ,Instrumentation and Control Engineering ,UG,S.Y.B.Tech.,0
+COEP,9,73,Semester III,24,1,Production Engineering (Sandwich),Production Engineering and Industrial Management,UG,S.Y.B.Tech.,0
+COEP,8,74,Semester III,22,1,Metallurgical Engineering,Metallurgy and Material Science ,UG,S.Y.B.Tech.,0
+COEP,11,75,Semester III,23,1,Planning,Planning ,UG,S.Y.B.Tech.,0
+COEP,10,76,Semester I,21,1,Civil Engineering,Civil Engineering ,PG,F.Y.M.Tech.,0
+COEP,17,77,Semester I,20,1,Civil Engineering,Civil Engineering ,PG,F.Y.M.Tech.,0
+COEP,19,78,Semester I,21,1,Civil Engineering,Civil Engineering ,PG,F.Y.M.Tech.,0
+COEP,20,79,Semester I,21,1,Civil Engineering,Civil Engineering ,PG,F.Y.M.Tech.,0
+COEP,21,80,Semester I,20,1,Computer Engineering,Computer Engineering and Information Technology,PG,F.Y.M.Tech.,0
+COEP,22,81,Semester I,20,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,0
+COEP,23,82,Semester I,20,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,0
+COEP,24,83,Semester I,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,0
+COEP,25,84,Semester I,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,0
+COEP,26,85,Semester I,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,0
+COEP,27,86,Semester I,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,0
+COEP,28,87,Semester I,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,0
+COEP,29,88,Semester I,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,0
+COEP,31,89,Semester I,20,1,Mechanical Engineering,Mechanical Engineering ,PG,F.Y.M.Tech.,0
+COEP,33,91,Semester I,20,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,F.Y.M.Tech.,0
+COEP,32,92,Semester I,20,1,Mechanical Engineering,Mechanical Engineering ,PG,F.Y.M.Tech.,0
+COEP,34,93,Semester I,30,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,F.Y.M.Tech.,0
+COEP,35,94,Semester I,20,1,Production Engineering,Production Engineering and Industrial Management,PG,F.Y.M.Tech.,0
+COEP,37,95,Semester I,20,1,Automotive Technology,Mechanical Engineering ,PG,F.Y.M.Tech.,0
+COEP,18,96,Semester II,20,1,Instrumentation and Control Engineering,Instrumentation and Control Engineering ,PG,F.Y.M.Tech.,1
+COEP,30,97,Semester II,20,1,Instrumentation and Control Engineering,Instrumentation and Control Engineering ,PG,F.Y.M.Tech.,1
+COEP,18,98,Semester III,19,1,Instrumentation and Control Engineering,Instrumentation and Control Engineering ,PG,S.Y.M.Tech,0
+COEP,30,99,Semester IV,18,1,Instrumentation and Control Engineering,Instrumentation and Control Engineering ,PG,F.Y.M.Tech.,1
+COEP,18,101,Semester IV,18,1,Instrumentation and Control Engineering,Instrumentation and Control Engineering ,PG,F.Y.M.Tech.,1
+COEP,35,102,Semester II,22,1,Production Engineering,Production Engineering and Industrial Management,PG,F.Y.M.Tech.,1
+COEP,10,103,Semester II,22,1,Civil Engineering,Civil Engineering ,PG,F.Y.M.Tech.,1
+COEP,17,104,Semester II,22,1,Civil Engineering,Civil Engineering ,PG,F.Y.M.Tech.,1
+COEP,19,105,Semester II,20,1,Civil Engineering,Civil Engineering ,PG,F.Y.M.Tech.,1
+COEP,20,106,Semester II,17,1,Civil Engineering,Civil Engineering ,PG,F.Y.M.Tech.,1
+COEP,21,107,Semester II,20,1,Computer Engineering,Computer Engineering and Information Technology,PG,F.Y.M.Tech.,1
+COEP,22,108,Semester II,21,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,1
+COEP,23,109,Semester II,21,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,1
+COEP,24,110,Semester II,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,1
+COEP,25,111,Semester II,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,1
+COEP,26,112,Semester II,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,1
+COEP,27,113,Semester II,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,1
+COEP,28,114,Semester II,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,1
+COEP,29,115,Semester II,20,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,F.Y.M.Tech.,1
+COEP,31,117,Semester II,21,1,Mechanical Engineering,Mechanical Engineering ,PG,F.Y.M.Tech.,1
+COEP,32,118,Semester II,21,1,Mechanical Engineering,Mechanical Engineering ,PG,F.Y.M.Tech.,1
+COEP,33,119,Semester II,20,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,F.Y.M.Tech.,1
+COEP,34,120,Semester II,20,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,F.Y.M.Tech.,1
+COEP,37,122,Semester II,21,1,Automotive Technology,Mechanical Engineering ,PG,F.Y.M.Tech.,1
+COEP,1,123,Semester IV,23,1,Electrical Engineering,Electrical Engineering ,UG,S.Y.B.Tech.,1
+COEP,2,124,Semester IV,24,1,Civil Engineering,Civil Engineering ,UG,S.Y.B.Tech.,1
+COEP,3,125,Semester IV,21,1,Computer Engineering,Computer Engineering and Information Technology,UG,S.Y.B.Tech.,1
+COEP,4,126,Semester IV,22,1,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,S.Y.B.Tech.,1
+COEP,5,127,Semester IV,21,1,Information Technology ,Computer Engineering and Information Technology,UG,S.Y.B.Tech.,1
+COEP,6,128,Semester IV,24,1,Instrumentation and Control Engineering ,Instrumentation and Control Engineering ,UG,S.Y.B.Tech.,1
+COEP,7,130,Semester IV,23,1,Mechanical Engineering,Mechanical Engineering ,UG,S.Y.B.Tech.,1
+COEP,8,131,Semester IV,23,1,Metallurgical Engineering,Metallurgy and Material Science ,UG,S.Y.B.Tech.,1
+COEP,9,132,Semester IV,24,1,Production Engineering (Sandwich),Production Engineering and Industrial Management,UG,S.Y.B.Tech.,1
+COEP,11,133,Semester IV,23,1,Planning,Planning ,UG,S.Y.B.Tech.,1
+COEP,1,144,Summer II,21,0,Electrical Engineering,Electrical Engineering ,UG,S.Y.B.Tech.,0
+COEP,2,145,Summer II,21,0,Civil Engineering,Civil Engineering ,UG,S.Y.B.Tech.,0
+COEP,3,146,Summer II,21,0,Computer Engineering,Computer Engineering and Information Technology,UG,S.Y.B.Tech.,0
+COEP,4,147,Summer II,21,0,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,S.Y.B.Tech.,0
+COEP,5,148,Summer II,21,0,Information Technology ,Computer Engineering and Information Technology,UG,S.Y.B.Tech.,0
+COEP,6,149,Summer II,21,0,Instrumentation and Control Engineering ,Instrumentation and Control Engineering ,UG,S.Y.B.Tech.,0
+COEP,7,150,Summer II,21,0,Mechanical Engineering,Mechanical Engineering ,UG,S.Y.B.Tech.,0
+COEP,8,151,Summer II,21,0,Metallurgical Engineering,Metallurgy and Material Science ,UG,S.Y.B.Tech.,0
+COEP,9,152,Summer II,21,0,Production Engineering (Sandwich),Production Engineering and Industrial Management,UG,S.Y.B.Tech.,0
+COEP,11,153,Summer II,21,0,Planning,Planning ,UG,S.Y.B.Tech.,0
+COEP,17,154,Semester III,14,1,Civil Engineering,Civil Engineering ,PG,S.Y.B.Tech.,0
+COEP,10,155,Semester III,13,1,Civil Engineering,Civil Engineering ,PG,S.Y.B.Tech.,0
+COEP,20,157,Semester III,18,1,Civil Engineering,Civil Engineering ,PG,S.Y.M.Tech,0
+COEP,3,158,Semester V,25,1,Computer Engineering,Computer Engineering and Information Technology,UG,T.Y.B.Tech.,0
+COEP,5,159,Semester V,25,1,Information Technology ,Computer Engineering and Information Technology,UG,T.Y.B.Tech.,0
+COEP,21,160,Semester III,14,1,Computer Engineering,Computer Engineering and Information Technology,PG,S.Y.M.Tech,0
+COEP,21,161,Semester IV,20,1,Computer Engineering,Computer Engineering and Information Technology,PG,S.Y.M.Tech,1
+COEP,1,162,Semester V,25,1,Electrical Engineering,Electrical Engineering ,UG,T.Y.B.Tech.,0
+COEP,4,163,Semester V,24,1,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,T.Y.B.Tech.,0
+COEP,6,164,Semester V,24,1,Instrumentation and Control Engineering ,Instrumentation and Control Engineering ,UG,T.Y.B.Tech.,0
+COEP,7,165,Semester V,22,1,Mechanical Engineering,Mechanical Engineering ,UG,T.Y.B.Tech.,0
+COEP,8,166,Semester V,22,1,Metallurgical Engineering,Metallurgy and Material Science ,UG,T.Y.B.Tech.,0
+COEP,9,167,Semester V,21,1,Production Engineering (Sandwich),Production Engineering and Industrial Management,UG,T.Y.B.Tech.,0
+COEP,11,168,Semester V,22,1,Planning,Planning ,UG,T.Y.B.Tech.,0
+COEP,30,169,Semester III,19,1,Instrumentation and Control Engineering,Instrumentation and Control Engineering ,PG,S.Y.M.Tech,0
+COEP,19,171,Semester III,20,1,Civil Engineering,Civil Engineering ,PG,S.Y.M.Tech,0
+COEP,19,172,Semester IV,20,1,Civil Engineering,Civil Engineering ,PG,S.Y.M.Tech,1
+COEP,31,173,Semester III,14,1,Mechanical Engineering,Mechanical Engineering ,PG,S.Y.M.Tech,0
+COEP,32,174,Semester III,14,1,Mechanical Engineering,Mechanical Engineering ,PG,S.Y.M.Tech,0
+COEP,37,175,Semester III,14,1,Automotive Technology,Mechanical Engineering ,PG,S.Y.M.Tech,0
+COEP,24,176,Semester III,14,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,0
+COEP,27,177,Semester III,14,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,0
+COEP,28,178,Semester III,14,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,0
+COEP,29,179,Semester III,14,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,0
+COEP,35,180,Semester III,16,1,Production Engineering,Production Engineering and Industrial Management,PG,S.Y.M.Tech,0
+COEP,53,181,Semester I,20,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,0
+COEP,54,182,Semester I,20,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,0
+COEP,55,183,Semester I,20,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,0
+COEP,22,184,Semester III,16,1,Electrical Engineering,Electrical Engineering ,PG,S.Y.M.Tech,0
+COEP,23,185,Semester III,16,1,Electrical Engineering,Electrical Engineering ,PG,S.Y.M.Tech,0
+COEP,33,186,Semester III,19,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,S.Y.M.Tech,0
+COEP,34,187,Semester III,19,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,S.Y.M.Tech,0
+COEP,56,188,Semester I,20,1,Additive Manufacturing,Production Engineering and Industrial Management,PG Diploma,PGD-AM,0
+COEP,56,189,Semester II,20,1,Additive Manufacturing,Production Engineering and Industrial Management,PG Diploma,PGD-AM,1
+COEP,57,190,Semester I,22,1,Computer Science and Engineering,Computer Engineering and Information Technology,UG,F.Y.B.Tech.,1
+COEP,58,191,Semester I,22,1,Electronics and Communication Engineering,Electronics and TeleCommunication Engineering ,UG,F.Y.B.Tech.,1
+COEP,59,192,Semester I,20,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,F.Y.M.Tech.,0
+COEP,52,193,Semester I,22,1,Computer Engineering,Computer Engineering and Information Technology,PG,F.Y.M.Tech.,0
+COEP,4,194,Semester VI,24,1,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,T.Y.B.Tech.,1
+COEP,1,195,Semester VI,25,1,Electrical Engineering,Electrical Engineering ,UG,T.Y.B.Tech.,1
+COEP,2,196,Semester VI,23,1,Civil Engineering,Civil Engineering ,UG,T.Y.B.Tech.,1
+COEP,3,197,Semester VI,24,1,Computer Engineering,Computer Engineering and Information Technology,UG,T.Y.B.Tech.,1
+COEP,5,198,Semester VI,24,1,Information Technology ,Computer Engineering and Information Technology,UG,T.Y.B.Tech.,1
+COEP,6,199,Semester VI,24,1,Instrumentation and Control Engineering ,Instrumentation and Control Engineering ,UG,T.Y.B.Tech.,1
+COEP,7,200,Semester VI,24,1,Mechanical Engineering,Mechanical Engineering ,UG,T.Y.B.Tech.,1
+COEP,8,201,Semester VI,26,1,Metallurgical Engineering,Metallurgy and Material Science ,UG,T.Y.B.Tech.,1
+COEP,9,202,Semester VI,26,1,Production Engineering (Sandwich),Production Engineering and Industrial Management,UG,T.Y.B.Tech.,1
+COEP,11,203,Semester VI,24,1,Planning,Planning ,UG,T.Y.B.Tech.,1
+COEP,57,204,Semester VI,24,1,Computer Science and Engineering,Computer Engineering and Information Technology,UG,T.Y.B.Tech.,0
+COEP,58,205,Semester VI,24,1,Electronics and Communication Engineering,Electronics and TeleCommunication Engineering ,UG,T.Y.B.Tech.,0
+COEP,58,206,Semester II,21,1,Electronics and Communication Engineering,Electronics and TeleCommunication Engineering ,UG,F.Y.B.Tech.,0
+COEP,57,207,Semester II,21,1,Computer Science and Engineering,Computer Engineering and Information Technology,UG,F.Y.B.Tech.,0
+COEP,10,208,Semester IV,20,1,Civil Engineering,Civil Engineering ,PG,S.Y.M.Tech,1
+COEP,17,209,Semester IV,18,1,Civil Engineering,Civil Engineering ,PG,S.Y.M.Tech,1
+COEP,20,210,Semester IV,18,1,Civil Engineering,Civil Engineering ,PG,S.Y.M.Tech,1
+COEP,22,211,Semester IV,21,1,Electrical Engineering,Electrical Engineering ,PG,S.Y.M.Tech,1
+COEP,23,212,Semester IV,21,1,Electrical Engineering,Electrical Engineering ,PG,S.Y.M.Tech,1
+COEP,24,213,Semester IV,21,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,1
+COEP,25,214,Semester IV,21,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,0
+COEP,26,215,Semester IV,21,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,0
+COEP,27,216,Semester IV,21,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,1
+COEP,28,217,Semester IV,21,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,1
+COEP,29,218,Semester IV,21,1,Electronics and Telecommunication Engineering,Electronics and TeleCommunication Engineering ,PG,S.Y.M.Tech,1
+COEP,31,220,Semester IV,21,1,Mechanical Engineering,Mechanical Engineering ,PG,S.Y.M.Tech,1
+COEP,32,221,Semester IV,21,1,Mechanical Engineering,Mechanical Engineering ,PG,S.Y.M.Tech,1
+COEP,37,222,Semester IV,21,1,Automotive Technology,Mechanical Engineering ,PG,S.Y.M.Tech,1
+COEP,33,223,Semester IV,21,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,S.Y.M.Tech,1
+COEP,34,224,Semester IV,21,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,S.Y.M.Tech,1
+COEP,59,225,Semester II,21,1,Metallurgy and Material Science,Metallurgy and Material Science ,PG,F.Y.M.Tech.,1
+COEP,35,227,Semester IV,18,1,Production Engineering,Production Engineering and Industrial Management,PG,S.Y.M.Tech,1
+COEP,52,228,Semester II,21,1,Computer Engineering,Computer Engineering and Information Technology,PG,F.Y.M.Tech.,1
+COEP,53,229,Semester II,21,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,1
+COEP,54,230,Semester II,21,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,1
+COEP,55,231,Semester II,21,1,Electrical Engineering,Electrical Engineering ,PG,F.Y.M.Tech.,1

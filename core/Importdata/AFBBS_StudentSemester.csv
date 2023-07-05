@@ -1,0 +1,7 @@
+SchoolID, StudentID, SemesterID, SemesterName, YearID, AcdemicYear, ExtDivisionID, Division, BranchID, Branch, Specialization, DepartmentID, Department, CourseLevelID, CourseLevel, IsCurrentSemester
+AFBBS,876,1,Semester-I,1,2017-2018,1,Div-A,1,School,General,1,English,1,H.S.C,1
+AFBBS,416,1,Semester-I,1,2017-2018,1,Div-A,1,School,General,1,English,1,H.S.C,1
+AFBBS,458,1,Semester-I,1,2017-2018,1,Div-A,1,School,General,1,English,1,H.S.C,1
+AFBBS,454,1,Semester-I,1,2017-2018,1,Div-A,1,School,General,1,English,1,H.S.C,1
+AFBBS,707,1,Semester-I,1,2017-2018,1,Div-A,1,School,General,1,English,1,H.S.C,1
+AFBBS,1443,1,Semester-I,1,2017-2018,1,Div-A,1,School,General,1,English,1,H.S.C,1

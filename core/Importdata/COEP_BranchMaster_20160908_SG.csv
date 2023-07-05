@@ -1,0 +1,55 @@
+SchoolID, BranchID, Branch, Specialization, Duration, IsEnabled, DepartmentName, CourseName
+COEP,1,Electrical Engineering,NULL,4,1,Electrical Engineering ,UG
+COEP,2,Civil Engineering,NULL,4,1,Civil Engineering ,UG
+COEP,3,Computer Engineering,NULL,4,0,Computer Engineering and Information Technology,UG
+COEP,4,Electronics and Telecommunication Engineering ,NULL,4,1,Electronics and TeleCommunication Engineering ,UG
+COEP,5,Information Technology ,NULL,4,1,Computer Engineering and Information Technology,UG
+COEP,6,Instrumentation and Control Engineering ,NULL,4,1,Instrumentation and Control Engineering ,UG
+COEP,7,Mechanical Engineering,NULL,4,1,Mechanical Engineering ,UG
+COEP,8,Metallurgical Engineering,NULL,4,1,Metallurgy and Material Science ,UG
+COEP,9,Production Engineering (Sandwich),NULL,4,1,Production Engineering and Industrial Management,UG
+COEP,10,Civil Engineering,Construction & Management,2,1,Civil Engineering ,PG
+COEP,11,Planning,NULL,4,1,Planning ,UG
+COEP,17,Civil Engineering,Environmental & Water Resources Engineering,2,1,Civil Engineering ,PG
+COEP,18,Instrumentation and Control Engineering,Biomedical Instrumentation,2,1,Instrumentation and Control Engineering ,PG
+COEP,19,Civil Engineering,Geotechnical Engineering,2,1,Civil Engineering ,PG
+COEP,20,Civil Engineering,Structural Engineering,2,1,Civil Engineering ,PG
+COEP,21,Computer Engineering,Computer Engineering,2,1,Computer Engineering and Information Technology,PG
+COEP,22,Electrical Engineering,Power System Engineering,2,1,Electrical Engineering ,PG
+COEP,23,Electrical Engineering,Control System Engineering,2,1,Electrical Engineering ,PG
+COEP,24,Electronics and TeleCommunication Engineering,Digital System,2,1,Electronics and TeleCommunication Engineering ,PG
+COEP,25,Electronics and TeleCommunication Engineering,Electronics and Instrumentation Engineering,2,0,Electronics and TeleCommunication Engineering ,PG
+COEP,26,Electronics and TeleCommunication Engineering,Microwave Electronics,2,0,Electronics and TeleCommunication Engineering ,PG
+COEP,27,Electronics and TeleCommunication Engineering,Wired and Wireless Communication,2,1,Electronics and TeleCommunication Engineering ,PG
+COEP,28,Electronics and TeleCommunication Engineering,Signal Processing,2,1,Electronics and TeleCommunication Engineering ,PG
+COEP,29,Electronics and TeleCommunication Engineering,VLSI and Embeded System,2,1,Electronics and TeleCommunication Engineering ,PG
+COEP,30,Instrumentation and Control Engineering,Process Instrumentation,2,1,Instrumentation and Control Engineering ,PG
+COEP,31,Mechanical Engineering,Design Engineering,2,1,Mechanical Engineering ,PG
+COEP,32,Mechanical Engineering,Thermal Engineering,2,1,Mechanical Engineering ,PG
+COEP,33,Metallurgy and Material Science,Physical Metallurgy,2,1,Metallurgy and Material Science ,PG
+COEP,34,Metallurgy and Material Science,Process Metallurgy,2,1,Metallurgy and Material Science ,PG
+COEP,35,Production Engineering,Manufacturing Engineering and Automation,2,1,Production Engineering and Industrial Management,PG
+COEP,36,Production Engineering,Project Mangement,2,1,Production Engineering and Industrial Management,PG
+COEP,37,Automotive Technology,NULL,2,1,Mechanical Engineering ,PG
+COEP,38,Mechatronics,NULL,2,1,Production Engineering and Industrial Management,PG
+COEP,39,Town and Country Planning,NULL,2,1,Planning ,PG
+COEP,40,Enterprise Resource Planning,NULL,2,1,Production Engineering and Industrial Management,PG Diploma
+COEP,41,Civil Engineering,NULL,8,1,Civil Engineering ,Ph.D.
+COEP,42,Computer Engineering,NULL,8,1,Computer Engineering and Information Technology,Ph.D.
+COEP,43,Electronics and Telecommunication Engineering ,NULL,8,1,Electronics and TeleCommunication Engineering ,Ph.D.
+COEP,44,Information Technology ,NULL,8,1,Computer Engineering and Information Technology,Ph.D.
+COEP,45,Instrumentation and Control Engineering ,NULL,8,1,Instrumentation and Control Engineering ,Ph.D.
+COEP,46,Mechanical Engineering,NULL,8,1,Mechanical Engineering ,Ph.D.
+COEP,47,Metallurgy and Material Science,NULL,8,1,Metallurgy and Material Science ,Ph.D.
+COEP,48,Production Engineering,NULL,8,1,Production Engineering and Industrial Management,Ph.D.
+COEP,49,Electrical Engineering,NULL,8,1,Electrical Engineering ,Ph.D.
+COEP,50,Environmental Science,NULL,1,0,Applied Science,Ph.D.
+COEP,51,Chemistry ,NULL,4,0,Applied Science,Ph.D.
+COEP,52,Computer Engineering,Information Security,2,0,Computer Engineering and Information Technology,PG
+COEP,53,Electrical Engineering,Power Electronics and Power Systems ,2,0,Electrical Engineering ,PG
+COEP,54,Electrical Engineering,Embedded Control Systems  ,2,0,Electrical Engineering ,PG
+COEP,55,Electrical Engineering,Power Electronics Machines and Drives,2,0,Electrical Engineering ,PG
+COEP,56,Additive Manufacturing,NULL,1,0,Production Engineering and Industrial Management,PG Diploma
+COEP,57,Computer Science and Engineering,NULL,4,0,Computer Engineering and Information Technology,UG
+COEP,58,Electronics and Communication Engineering,NULL,4,0,Electronics and TeleCommunication Engineering ,UG
+COEP,59,Metallurgy and Material Science,Materials Engineering,2,0,Metallurgy and Material Science ,PG

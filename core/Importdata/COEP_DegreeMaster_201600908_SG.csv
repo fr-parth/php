@@ -1,0 +1,5 @@
+SchoolID,DegreeID,DegreeName,DegreeCode,CourseLevel
+COEP,34,B.Tech,34,UG
+COEP,35,M.Tech,35,PG
+COEP,36,Ph.D.,36,PhD
+COEP,4242,Post-Graduate Diploma,4242,PG Diploma

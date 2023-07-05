@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body{line-height:18px; text-decoration:none; background:#2d2d2d; font-family: 'Open Sans', sans-serif; background-image:url(../images/bg2.png); background-repeat:repeat-x;  background-position:top;}
+.bg-wht{background:#FFF;}
+.header{ border-bottom:2px solid  #ed3237; padding:12px 0px 8px;}
+.homebtn{ margin:20px;  font-size:15px; font-weight:bold; font-family: 'Open Sans', sans-serif; f}
+.footer1txt{background:#ed3237; padding:16px ; border-bottom:1px solid #1e1e1e;}
+.footer1txt  h4{font-family: 'Open Sans', sans-serif; font-size:25px; font-weight:normal; color:#FFF;}
+.footer2txt{background:#ed3237; padding:15px 0px;  color:#000; }
+.footer2txt a{font-size:15px; line-height:25px; color:#202020; font-family: 'Open Sans', sans-serif; font-weight:600;  }
+.footer3txt{ background:#1e1e1e; padding:14px 20px;   color:#fff;  font-size:13px;}
+.footer3txt a{color:#fff; font-size:13px; font-family: 'Open Sans', sans-serif; font-weight:normal; }
+@media (max-width: 768px) {
+	.footer3txt{ text-align:center;}
+	}

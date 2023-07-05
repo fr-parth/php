@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Media Queries */ 
+
+
+
+
+  
+  @media (min-width: 768px) and (max-width: 979px) {
+      .joinus-projectsec .carousel-control.left{left: 270px; top:271px;}
+  .joinus-projectsec .carousel-control.right{right:274px;top:272px;}
+  .navinatin-sec .navi-gate .nav > li > a{font-size:12px;}
+  .navinatin-sec .donate-nw{margin-top:-87px;}
+		 
+}
+  
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+  .news-mainseclatest .carousel-indicators{display:none;}
+  #banner .carousel-indicators{display:none;}  
+  .share-icons{top:-126px;}
+    .joinus-projectsec .carousel-control.left{left: 200px; top:221px;}
+  .joinus-projectsec .carousel-control.right{right:224px;top:219px;}
+}
+
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 624px) {
+.news-mainseclatest .carousel-indicators{display:none;}
+#banner .carousel-indicators{display:none;}
+.become-vcont h2{font-size:20px; margin:0px;}
+  .share-icons{top:-126px;}
+  .joinus-projectsec .carousel-control.left{left: 100px; top: 160px;}
+  .joinus-projectsec .carousel-control.right{right:117px;top:166px;}
+  
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) 
+@media only screen and (max-width: 479px) {  }*/
+
+
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+
+.news-mainseclatest .carousel-indicators{display:none;}
+#banner .carousel-indicators{display:none;}
+.become-vcont h2{font-size:20px; margin:0px;}
+.share-icons h3{font-size:35px; margin-bottom:5px;}
+.share-icons{top:-121px;}
+  .joinus-projectsec .carousel-control.left{left:103px; top: 123px;}
+  .joinus-projectsec .carousel-control.right{right:93px;top:122px;}
+}
+    
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 320px) {
+
+.news-mainseclatest .carousel-indicators{display:none;}
+#banner .carousel-indicators{display:none;}
+.become-vcont h2{font-size:20px; margin:0px;}
+.share-icons h3{font-size:35px; margin-bottom:5px;}
+.share-icons{top:-121px;}
+  .joinus-projectsec .carousel-control.left{display:none;}
+  .joinus-projectsec .carousel-control.right{display:none;}
+}
+
+
+

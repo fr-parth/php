@@ -1,0 +1,98 @@
+SchoolID, BranchID, SemesterID, SemesterName, SemesterCredit, IsRegularSemester, BranchName, DepartmentName, CourseLevel, Class, IsEnabled
+AFBBS,1,1,Semester-I,1,1,School,English ,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Hindi,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Maths,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science: Class VI-X,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Home Science,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Fine Arts,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,6 th,Class-VI,1
+AFBBS,1,1,Semester-I,1,1,School,English ,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Hindi,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Maths,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science: Class VI-X,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Home Science,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Fine Arts,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,7 th,Class-VII,1
+AFBBS,1,1,Semester-I,1,1,School,English ,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Hindi,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Maths,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science: Class VI-X,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Home Science,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Fine Arts,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,8 th,Class-VIII,1
+AFBBS,1,1,Semester-I,1,1,School,English ,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Hindi,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Maths,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science: Class VI-X,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science: Class VI-X,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,9 th,Class-IX,1
+AFBBS,1,1,Semester-I,1,1,School,English ,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Hindi,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Maths,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science: Class VI-X,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science: Class VI-X,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,S.S.C,Class-X,1
+AFBBS,1,1,Semester-I,1,1,School,English ,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Maths,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Physics,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Chemistry,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Biology,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Bio-Techonology,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Economics,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Accounts,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Home Science,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Fine Arts,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,Psychology,11 th,Class-XI,1
+AFBBS,1,1,Semester-I,1,1,School,English ,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Maths,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Physics,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Chemistry,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Biology,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Bio-Techonology,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Histry/Civics,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Political Science,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Geography,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Economics,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Accounts,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Computer Science,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Home Science,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Fine Arts,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Musics,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Physical Education,H.S.C,H.S.C,1
+AFBBS,1,1,Semester-I,1,1,School,Psychology,H.S.C,H.S.C,1

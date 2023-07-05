@@ -1,0 +1,96 @@
+CREATE DEFINER=`SmartCookies`@`%` PROCEDURE `UploadRecordStudentSubject`(batchid varchar(15))
+begin
+
+set SQL_SAFE_UPDATES=0;
+update tbl_student_subject ss 
+      left join tbl_semester_master s on s.ExtSemesterId= ss.ExtSemesterId
+      left join tbl_school_subject sm on sm.ExtSchoolSubjectId = ss.ExtSchoolSubjectId
+      left join tbl_branch_master b on b.ExtBranchId= ss.ExtBranchId
+      left join tbl_student studm on studm.std_PRN=ss.student_id
+      left join tbl_teacher em on ss.teacher_ID = em.t_id
+      left join tbl_student_subject_master ssm 
+									on ss.student_id=ssm.student_id
+									and ss.ExtSchoolSubjectId= ssm.ExtSchoolSubjectId
+									and ss.school_id= ssm.school_id 
+									and ss.ExtSemesterId=ssm.ExtSemesterId
+									and ss.ExtYearID=ssm.ExtYearID
+									and ss.ExtBranchId=ssm.ExtBranchId 
+									set 
+ss.status= case  when s.ExtSemesterId is null then 'Semester invalid'
+	  when sm.ExtSchoolSubjectId is null then 'SubjectID invalid'
+       when b.ExtBranchId is null then 'Branch invalid'
+       when studm.std_PRN is null then 'StudentID invalid'
+       when (ss.teacher_ID is not null and em.t_id is null)  then 'Teacher_ID Invalid'
+       when ssm.id is not null then 'Update' else 'Insert' end
+where ss.batch_id=batchid ;
+
+
+	
+update  tbl_student_subject ss 
+		   inner join tbl_student_subject_master ssm 
+									on ss.student_id=ssm.student_id
+									and ss.ExtSchoolSubjectId= ssm.ExtSchoolSubjectId
+									and ss.school_id= ssm.school_id 
+									and ss.ExtSemesterId=ssm.ExtSemesterId
+									and ss.ExtYearID=ssm.ExtYearID
+									and ss.ExtBranchId=ssm.ExtBranchId 
+		set 
+			ssm.teacher_ID = case when ss.teacher_ID='' then ssm.teacher_ID else ss.teacher_ID end, 
+			ssm.Division_id = case when ss.Division_id='' then ssm.Division_id else ss.Division_id end,
+			ssm.ExtDivisionID = case when ss.ExtDivisionID='' then ssm.ExtDivisionID else ss.ExtDivisionID end,
+			ssm.CourseLevel= case when ss.CourseLevel='' then ssm.CourseLevel else ss.CourseLevel end
+	where ss.status='Update' 
+	 and  ss.batch_id=batchid ;
+
+
+																	
+Insert into tbl_student_subject_master
+(
+`ExtSemesterId`
+			,`ExtBranchId`
+			,`ExtSchoolSubjectId`
+			,`ExtYearID`
+			,`ExtDivisionID`
+			,`student_id`
+			,`teacher_ID`
+			,`school_id`
+			,`school_staff_id`
+			,`subjcet_code`
+			,`subjectName`
+			,`Division_id`
+			,`Semester_id`
+			,`Branches_id`
+			,`Department_id`
+			,`CourseLevel`
+			,`AcademicYear`
+			,`upload_date`
+			,`uploaded_by`
+			,`batch_id`)
+		SELECT   
+			`ExtSemesterId`
+			,`ExtBranchId`
+			,`ExtSchoolSubjectId`
+			,`ExtYearID`
+			,`ExtDivisionID`
+			,`student_id`
+			,`teacher_ID`
+			,`school_id`
+			,`school_staff_id`
+			,`subjcet_code`
+			,`subjectName`
+			,`Division_id`
+			,`Semester_id`
+			,`Branches_id`
+			,`Department_id`
+			,`CourseLevel`
+			,`AcademicYear`
+			,`upload_date`
+			,`uploaded_by`
+			,`batch_id`
+  FROM tbl_student_subject
+			where `status`='Insert' and  batch_id=batchid;	
+            
+select status, count(1) as Total from tbl_student_subject 
+			where  batch_id=batchid group by status;
+            
+            end

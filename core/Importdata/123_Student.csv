@@ -1,0 +1,6 @@
+SchoolID, StudentPRN,StudentName,PhoneNo,BranchName,YearID,Gender,EmailID,Country,FatherName,DOB,Class,PermanentAddress,City,TemporaryAddress,PermanentVillage,PermanentTaluka,PermanentDistrict,PermanentPincode,InternalEmailID,Specialization,CourseLevel,AcademicYear,Department
+123,15001,Shariram Kulkarni,8888406763,ANDROID ,2017,Male,hariram@roseland.com,India,Anil kulkarni,16/11/1992,class 1,Latur,Pune,Pune,Latur,Latur,Latur,417503,hariram@roseland.com,CS,UG,2016-2017,ANDROID_WL
+123,15002,Rahul Gajre,7066509808,ANDROID ,2017,Male,rahul@roseland.com,India,Satyendra gajre,17/06/1993,class 1,Jabalpur,Pune,Pune,Jabalpur,Jabalpur,Jabalpur,482008,rahul@roseland.com,EC,UG,2016-2017,ANDROID_WL
+123,15003,Sonam Gupta,9595512152,ANDROID ,2017,Female,sonam@roseland.com,India,Ashok gupta,22/06/1991,class 1,Sangali,Pune,Pune,Sangali,Sangali,Sangali,415303,sonam@roseland.com,Maths,PG,2016-2017,ANDROID_WL
+123,15004,Shital Wakde,7387149812,IOS,2017,Female,shital@roseland.com,India,Bhagwant wakde,22/08/1991,class 1,Amravati,Pune,Pune,Amravati,Amravati,Amravati,444607,shital@roseland.com,EC,UG,2016-2017,IOS_WL
+123,15005,Akshay Sharma,9637705619,IOS,2017,Male,akshay@roseland.com,India,Ashok sharma,6/2/1994,class 1,Nasik,Pune,Pune,Nasik,Nasik,Nasik,423106,akshay@roseland.com,Computer,PG,2016-2017,IOS_WL

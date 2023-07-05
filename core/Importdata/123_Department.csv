@@ -1,0 +1,5 @@
+SchoolID, DepartmentCode, DepartmentName, DepartmentID, EstablimentYear, PhoneNo, FaxNo, EmailID, IsEnabled
+123,PHP,PHP_WL,1,1997,211,12345,php@bpsi.com,1
+123,IOS,IOS_WL,2,1997,215,12345,ios@bpsi.com,1
+123,ANDROID,ANDROID_WL,3,1997,219,12345,android@bpsi.com,1
+123,DOTNET,DOTNET_WL,4,1997,220,12345,dotnet@bpsi.com,1

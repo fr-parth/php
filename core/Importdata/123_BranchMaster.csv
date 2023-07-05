@@ -1,0 +1,5 @@
+SchoolID, BranchID, Branch, Specialization, Duration, IsEnabled, DepartmentName, CourseName
+123,1,PHP,core,1,1,PHP_WL,PG
+123,2,ANDROID ,MVC,1,1,ANDROID_WL,UG
+123,3,IOS,MVC,1,1,IOS_WL,PG
+123,5,DOTNET,Csharp,1,1,DOTNET_WL,PG

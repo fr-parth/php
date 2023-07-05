@@ -1,0 +1,3 @@
+SchoolID, EmployeeRegCode, EmployeeName, Mobile, DeptName, Gender, EmailID, Country, City, PermanentAddress, DOB, IntEmail, PhoneNo, AppointmentDate,EmployeeType
+121,10000,Aloysius Domnic,9850568768,Operations,Male,aloysuis@blueplanetsolutions.com,India,Pune,Pune,,aloysuis@blueplanetsolutions.com,205/222,,135
+121,10001,Avi Kulkarni,9735680605,CEO,Male,avi@blueplanetsolutions.com,India,Pune,Pune,,avi@blueplanetsolutions.com,,,135

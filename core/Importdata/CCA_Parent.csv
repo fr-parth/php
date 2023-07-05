@@ -1,0 +1,5 @@
+SchoolID, StudentPRN,ParentName,PhoneNo,EmailID,DOB,Gender,Address,Country,FamilyIncome,Qualification,Occupation,ParentProfileImage,State,City,Mother_name
+CCA,123,asd,asd,asd,assd,asd,sada,as,DSD,DSS,SDSD,SDSDV,SDCSD,SDVSD,DXV
+CCA, ,asd,asd,asd,assd,asd,sada,as,DSD,DSS,SDSD,SDSDV,SDCSD,SDVSD,DXV
+CCA,123, ,asd,asd,assd,asd,sada,as,DSD,DSS,SDSD,SDSDV,SDCSD,SDVSD,DXV
+CCA,123,asd,asd,asd,assd,asd,sada,as,DSD,DSS,SDSD,SDSDV,SDCSD,SDVSD,DXV

@@ -1,0 +1,5 @@
+SchoolID,StudentRegCode, SubjectCode, SemesterID, BranchID,SubjectMasterID, YearID, DivisionID, SubjectName, Division, Semester, Branch, Department, CourseLevel, AcademicYear,TeacherID
+COEP,41209014,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209014,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209014,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209014,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001

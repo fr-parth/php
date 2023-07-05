@@ -1,0 +1,4 @@
+SchoolID, DepartmentCode, DepartmentName, DepartmentID, EstablimentYear, PhoneNo, FaxNo, EmailID, IsEnabled
+SARASWATI,MCA,Department of Master of Computer Application,372,2009,91-7265-254478,91-7265-254433,saraswati.edu.shg@gmail.com,TRUE
+SARASWATI,BCA,Department of Bachelor  of Computer Application,373,2010,91-7265-254478,91-7265-254433,saraswati.edu.shg@gmail.com,TRUE
+SARASWATI,BBA,Department of Bachelor  of Business Administration,374,2010,91-7265-254478,91-7265-254433,saraswati.edu.shg@gmail.com,TRUE

@@ -1,0 +1,21 @@
+SchoolID, DepartmentCode, DepartmentName, DepartmentID, EstablimentYear, PhoneNo, FaxNo, EmailID, IsEnabled
+AFBBS,A-001,English ,1,,,,,1
+AFBBS,A-002,Hindi,2,,,,,1
+AFBBS,A-003,Maths,3,,,,,1
+AFBBS,A-004,Physics,4,,,,,1
+AFBBS,A-005,Chemistry,5,,,,,1
+AFBBS,A-006,Biology,6,,,,,1
+AFBBS,A-007,Bio-Techonology,7,,,,,1
+AFBBS,A-008,Histry/Civics,8,,,,,1
+AFBBS,A-009,Political Science,9,,,,,1
+AFBBS,A-010,Geography,10,,,,,1
+AFBBS,A-011,Economics,11,,,,,1
+AFBBS,A-012,Accounts,12,,,,,1
+AFBBS,A-013,Computer Science,13,,,,,1
+AFBBS,A-014,Computer Science: Class VI-X,14,,,,,1
+AFBBS,A-015,Home Science,15,,,,,1
+AFBBS,A-016,Library,16,,,,,1
+AFBBS,A-017,Fine Arts,17,,,,,1
+AFBBS,A-018,Musics,18,,,,,1
+AFBBS,A-019,Physical Education,19,,,,,1
+AFBBS,A-020,Psychology,20,,,,,1

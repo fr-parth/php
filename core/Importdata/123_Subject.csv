@@ -1,0 +1,3 @@
+SchoolID, SubjectID, SubjectCode, Subject, SubjectType, SubjectShortName, SubjectCredit
+123,1,SC-9001,SmartCookie,Practicle,SM,1
+123,2,VH-9003,PanHeath,Practicle,PH,3

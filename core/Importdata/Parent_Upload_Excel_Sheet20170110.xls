@@ -1,0 +1,4 @@
+<table border=1><tr><td colspan=12><b><center><font size=30px;>-------------: Parent Excel Sheet Upload Format :---------------</font></b></td></tr></center>
+	<tr><td>School ID</td><td>Student PRN</td><td>Parent Name</td><td>Email ID</td><td>DOB</td><td>Gender</td><td>Address</td><td>Country</td><td>Family Income</td><td>Qualification</td><td>Occupation</td><td>parent_img_path</td><td>state</td><td>city</td><td>Mother_name</td></tr></table>
+
+

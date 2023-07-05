@@ -1,0 +1,2 @@
+
+<table border='1'><tr><th>SchoolID</th><th> StudentPRN</th><th>StudentName</th><th>PhoneNo</th><th>BranchName</th><th>YearID</th><th>Gender</th><th>EmailID</th><th>Country</th><th>FatherName</th><th>DOB</th><th>Class</th><th>PermanentAddress</th><th>City</th><th>TemporaryAddress</th><th>PermanentVillage</th><th>PermanentTaluka</th><th>PermanentDistrict</th><th>PermanentPincode</th><th>InternalEmailID</th><th>Specialization</th><th>CourseLevel</th><th>AcademicYear</th><th>Department</th><th>upload_date</th><th>uploaded_by</th><th>batch_id</th><th>status</th></tr></table>

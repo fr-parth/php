@@ -1,0 +1,19 @@
+smartcookiesprogramme@gmail.com
+Smartcookies@123
+503549829785423  -- app ID
+d32ddcebee35a59d117330b2f125edad  -- app secret
+
+
+http://127.0.0.1/ci_opauth/auth/authenticate/
+/ci_opauth/auth/authenticate/
+
+
+
+google
+Client ID
+899856960311-jjo9borlk2odmuc9r22dvlvj6c5sq2i1.apps.googleusercontent.com
+Client secret
+Ws8hGc1E_E93FuDOAQI5xP0A 
+
+
+apps.twitter.com

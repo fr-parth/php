@@ -1,0 +1,3 @@
+SchoolID, BranchID, Branch, Specialization, Duration, IsEnabled, DepartmentName, CourseName
+126,2,Civil Engineering,NULL,4,1,Civil Engineering ,UG
+126,3,Computer Engineering,NULL,4,1,Computer Engineering and Information Technology,UG

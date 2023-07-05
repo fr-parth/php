@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600);
+
+body{margin:0px; padding:0px; background:#e9eaed; font-family: 'Open Sans', sans-serif; line-height:20px;}
+h1, h2, h3, h4, h5, h6, p{margin:0px; padding:0px;}
+
+.header_title{background:#5c5c5c; color:#fff;}
+.ht_box p{ padding:8px 0px 8px 20px; float:right; text-transform:uppercase; font-size:12px;}
+
+.header_main{background:#fff; background-image:url(../images/head_bor.png); background-repeat:repeat-x; border-bottom:1px solid #0162a2; }
+.logo{ padding:20px 0px 12px 0px;}
+.logo img{max-width:100%; }
+.cartbox{ padding:5px 15px 5px 34px; background-image:url(../images/carticon.png); background-repeat:no-repeat; top:4px; background-position:left; text-aligne:center;}
+.carttext{ text-align:center; display:inline-block; color:#000; width:25px; font-weight:bold;}
+
+.header_filter{ background:#D5D5D5;}
+.header_pointtext{text-align:right; padding-top:15px; height:137px; line-height:22px;}
+.pro_picbox{text-align:center; padding:16px 0px; background:#027cd5;}
+.pro_picbox img{ border:2px solid #fff; -moz-box-shadow:0px 4px 3px #1f6399; -webkit-box-shadow: 0px 4px 3px #1f6399; box-shadow: 0px 4px 3px #1f6399; -moz-border-radius:190px; -webkit-border-radius:190px; border-radius:190px;}
+.pro_picbox p{color:#fff;}
+.cat-sel-opt{height:30px; margin:5px 0px; background:#EFEFEF; padding:0px 0px 0px 10px;  border:0px;}
+.cat-sel-opt:hover{background:#f4f4f4;}
+.txttotpoint{color:#257cc1; font-size:16px; text-transform:uppercase; font-weight:bold; padding-bottom:5px;}
+
+.wat_point{ background-image:url(../images/w_points.png); background-repeat:no-repeat; background-position:right;
+ padding-right:25px;}
+.yell_point{ background-image:url(../images/y_points.png); background-repeat:no-repeat; background-position:right;
+ padding-right:25px;}
+.gree_point{ background-image:url(../images/g_points.png); background-repeat:no-repeat; background-position:right;
+ padding-right:25px;}
+
+
+#middel_top_padding{padding-top:173px;}
+.middle_container{ padding:30px 0px 10px;}
+.coup_box{ background:#fff; border:1px #c1c0c0 solid; text-align:center; margin-bottom:20px;}
+.coup_box:hover{border:1px solid #5f5f5f; -moz-box-shadow:0px 4px 3px #7f7f7f; -webkit-box-shadow: 0px 4px 3px #7f7f7f; box-shadow: 0px 4px 3px #7f7f7f;}
+
+.coup_txtbox{padding:14px 0px 18px 0px;}
+.sp_logo{padding-bottom:6px;  width:100%;}
+.sp_prod{ width:100%;}
+
+.couptxt1{color:#333333; font-size:14px; font-weight:bold; text-transform:uppercase;}
+.couptxt2{color:#12a839; font-size:14px; font-weight:bold;}
+.couptxt3{color:#c1310b; font-size:14px; font-weight:bold;}
+.couptxt4{padding-bottom:7px; font-weight:bold;  text-transform:uppercase;}
+
+.catbtn{ width:102px; padding:5px; background:#c1310b; color:#fff; float:left; font-size:11.5px;} 
+.catbtn:hover{ color:#fff; text-decoration:none; background:#ff3500;}
+
+.getcoubtn{ width:102px; padding:5px; background:#12a839; color:#fff; float:right; font-size:11.5px;} 
+.getcoubtn:hover{ color:#fff; text-decoration:none; background:#11de46;}
+
+.footer{background:#333333; text-align:right; color:#FFF; padding:12px 0px;}
+
+.mar_no{margin:0px;}
+.pad_no{padding:0px;}
+
+/* bootsrap css edit */
+.navbar-collapse{padding:0px;}
+.dropdown .dropdown-toggle{padding:0px;}
+
+.pointsAppliedToCertsStyle {
+    height: 43px;
+    width: 99%;
+    padding-top: 15px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+
+@media (max-width: 992px) {
+.logo{ text-align:center; padding:18px 0px 10px;}
+.ht_box p{ padding:2px 10px; float:right; }
+.catbtn{ width:100%; padding:4px;} 
+.getcoubtn{ width:100%; padding:4px; margin-top:4px;} 
+#middel_top_padding{padding-top:0px;}
+.navbar-fixed-top{position: relative;}
+
+/* bootsrap css edit */
+.navbar-collapse{padding:0px 15px;}
+.dropdown .dropdown-toggle{padding:0 0 0 10px;}
+.cartbox{ padding:8px 15px 5px 34px; }
+
+
+}
+@media (max-width: 768px) {
+body{background:#fff;} 
+.logo{ text-align:center; padding:30px 12px 12px;}
+.catbtn{ width:130px; padding:7px;} 
+.getcoubtn{ width:130px; padding:7px;} 
+.cartbox{ padding:8px 15px 5px 34px; top:10px; }
+#middel_top_padding{padding-top:0px;}
+.navbar-fixed-top{position: relative;}
+.hedpoint_box{padding:0px;}
+
+/* bootsrap css edit */
+.navbar-collapse{padding:0px 15px;}
+}

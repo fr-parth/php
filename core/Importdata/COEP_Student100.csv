@@ -1,0 +1,100 @@
+SchoolID, StudentID, SubjectCode, SemesterID, BranchID,SubjectMasterID, YearID, DivisionID, SubjectName, Division, Semester, Branch, Department, CourseLevel, AcademicYear,TeacherID
+COEP,41209014,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209014,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209014,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209014,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209014,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209001,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209001,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209001,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209001,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209001,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209012,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209012,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209012,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209012,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209012,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209018,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209018,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209018,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209018,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209018,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209022,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209022,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209022,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209022,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209022,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209002,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209021,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209021,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209021,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209021,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209021,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209002,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209002,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209002,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209002,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209004,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209004,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209004,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209004,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209004,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209024,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209024,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209024,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209024,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209024,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209025,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209025,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209025,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209025,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209025,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209006,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209006,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209006,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209006,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209006,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209013,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209013,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209013,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209013,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209013,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209023,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209023,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209023,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209023,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209023,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209003,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209003,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209003,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209003,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209003,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209011,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209011,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209011,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209011,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209011,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209020,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209020,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209020,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209020,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209020,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209008,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209016,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209016,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209016,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209016,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209016,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209019,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209019,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209019,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209019,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209019,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209005,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209005,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209005,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209005,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209005,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209008,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209008,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,41209008,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001

@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0px; padding:0px; background:#d3dbda; font-family:Arial; background-image: url(../images/loginbg.png); background-position:top; background-repeat:repeat-x;}
+.wrapper{margin:0 auto; height:auto; width:auto;}
+.page1{ max-width:770px; width:auto; height:420px;  margin:0 auto; margin-top:130px; background:#fff; vertical-align:top;}
+.page2{ max-width:770px; width:auto; height:420px;  margin:0 auto; margin-top:90px; background:#fff; vertical-align:top;}
+.logo{padding:15px 0px 12px; border-bottom:2px solid #828282; }
+.logo img{max-width:100%; }
+.logboxall{padding:35px;}
+.creat_an_text{font-size:18px; padding:20px; font-family:Arial;}
+.snicon{padding:10px 0; text-align:center;}
+#rcorners1 {
+    border-radius: 20px;   
+	-webkit-box-shadow: 0px 0px 25px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 25px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 25px 0px rgba(0,0,0,0.75);
+}
+.mar_no{margin:0px;}
+.pad_no{padding:0px;}
+
+.ragipg_all{padding:35px;}
+.rgi_padd{ padding:15px;}
+
+@media (max-width: 992px) {
+.page1{ margin-top:100px; border:none;  width:auto; height:auto;}
+.page2{ margin-top:100px; border:none;  width:auto; height:auto;}
+.or{display:none;}
+}
+@media (max-width: 768px) {
+body{background:#fff;} 
+.page1{ margin-top:0px; width:auto; height:auto;}
+.page2{ margin-top:0px; width:auto; height:auto;}
+#rcorners1{border-radius:0px; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none;  border:none;  }
+.or{display:none;}
+.padd_mobv{padding:15px 30px;}
+.logboxall{padding:35px 10px;}
+}

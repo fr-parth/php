@@ -1,0 +1,5 @@
+SchoolID, BranchID, SemesterID, SemesterName, SemesterCredit, IsRegularSemester, BranchName, DepartmentName, CourseLevel, Class, IsEnabled
+123,1,2,Semester I,1,1,PHP,PHP_WL,PG,class 1,1
+123,2,3,Semester I,1,1,ANDROID ,ANDROID_WL,UG,class 1,1
+123,5,5,Semester I,1,1,DOTNET,DOTNET_WL,UG,class 1,1
+123,3,6,Semester I,1,1,IOS,IOS_WL,UG,class 1,1

@@ -1,0 +1,4 @@
+<table border=1><tr><td colspan=12><b><center><font size=30px;>-------------: Student Excel Sheet Upload Format :---------------</font></b></td></tr></center>
+		<tr><td>School ID</td><td>Student PRN</td><td>Student Name</td><td>Mobile Number</td><td>Branch Name</td><td>Year</td><td>Gender</td><td>Email-ID</td><td>Country</td><td>Father Name</td><td>DOB</td><td>Student Class</td><td>Permanant Address</td><td>City</td><td>Temporary Address</td><td>Permanant Village</td><td>Permanant Taluka</td><td>Permanant Dist.</td><td>Permanant PIN</td><td>Internal Email</td><td>Specialization</td><td>Course Level</td><td>Academic Year</td><td>Dept. Name</td></tr></table>
+
+

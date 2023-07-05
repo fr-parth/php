@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600);
+
+body{margin:0px; padding:0px; background:#e9eaed; line-height:20px;}
+h1, h2, h3, h4, h5, h6, p{margin:0px; padding:0px;}
+
+.header_title{background:#5c5c5c; color:#fff;}
+.ht_box p{ padding:8px 0px 8px 20px; float:right; text-transform:uppercase; font-size:12px; display:flex; -moz-display:flex;
+-webkit-display:flex; -o-display:flex; -ms-display:flex;}
+
+.header_main{background:#fff; background-image:url(../images/head_bor.png); background-repeat:repeat-x; border-bottom:1px solid #0162a2; }
+.logo{ padding:20px 15px 12px 15px;}
+.logo img{max-width:100%; }
+.cartbox{ padding:5px 15px 5px 34px; background-image:url(../images/carticon.png); background-repeat:no-repeat; top:4px; background-position:left; text-aligne:center;}
+.carttext{ text-align:center; display:inline-block; color:#000; width:25px; font-weight:bold;}
+
+.header_filter{ background:#D5D5D5;}
+.header_pointtext{text-align:right; padding-top:15px; height:137px; line-height:22px;}
+.pro_picbox{text-align:center; padding:14px 0px; background:#027cd5;}
+.pro_picbox img{ border:2px solid #fff; -moz-box-shadow:0px 4px 3px #1f6399; -webkit-box-shadow: 0px 4px 3px #1f6399; box-shadow: 0px 4px 3px #1f6399; -moz-border-radius:190px; -webkit-border-radius:190px; border-radius:190px;}
+.pro_picbox p{color:#fff;}
+.cat-sel-opt{height:30px; margin:5px 0px; background:#EFEFEF; padding:0px 0px 0px 10px;  border:0px;}
+.cat-sel-opt:hover{background:#f4f4f4;}
+.txttotpoint{color:#257cc1; font-size:16px; text-transform:uppercase; font-weight:bold; padding-bottom:5px;}
+
+.wat_point{ background-image:url(../images/w_points.png); background-repeat:no-repeat; background-position:right;
+ padding-right:25px;}
+.yell_point{ background-image:url(../images/y_points.png); background-repeat:no-repeat; background-position:right;
+ padding-right:25px;}
+.gree_point{ background-image:url(../images/g_points.png); background-repeat:no-repeat; background-position:right;
+ padding-right:25px;}
+ .error{ color: #FF0000;}
+
+
+#middel_top_padding{padding-top:173px;}
+.middle_container{ padding:30px 0px 10px;}
+.coup_box{ background:#fff; border:1px #c1c0c0 solid; text-align:center; margin-bottom:20px;}
+.coup_box:hover{border:1px solid #5f5f5f; -moz-box-shadow:0px 4px 3px #7f7f7f; -webkit-box-shadow: 0px 4px 3px #7f7f7f; box-shadow: 0px 4px 3px #7f7f7f;}
+
+.coup_txtbox{padding:14px 0px 18px 0px;}
+.sp_logo{padding-bottom:6px;  width:100%;}
+.sp_prod{ width:100%;}
+
+.couptxt1{color:#333333; font-size:14px; font-weight:bold; text-transform:uppercase;}
+.couptxt2{color:#12a839; font-size:14px; font-weight:bold;}
+.couptxt3{color:#c1310b; font-size:14px; font-weight:bold;}
+.couptxt4{padding-bottom:7px; font-weight:bold;  text-transform:uppercase;}
+
+.catbtn{ width:102px; padding:5px; background:#c1310b; color:#fff; float:left; font-size:11.5px;} 
+.catbtn:hover{ color:#fff; text-decoration:none; background:#ff3500;}
+
+.getcoubtn{ width:102px; padding:5px; background:#12a839; color:#fff; float:right; font-size:11.5px;} 
+.getcoubtn:hover{ color:#fff; text-decoration:none; background:#11de46;}
+
+.footer{background:#333333; text-align:right; color:#FFF; padding:12px 0px;}
+
+.mar_no{margin:0px;}
+.pad_no{padding:0px;}
+
+/**css composed by rameshwar view print_coupon page css**/
+.coup_box2 {
+    background: #FFF none repeat scroll 0% 0%;
+    border: 1px solid #C1C0C0;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;}
+	
+	.box_content {margin:0px; min-height:300px;  padding:0px; }
+	.box_content p{font-size:12px;}
+
+
+
+
+
+
+
+
+
+
+
+/* form page css start */
+.midd_form{
+	padding:30px 15px;
+	background:#FFF;
+	}
+.vend_logo{ padding:50px 0px; margin-bottom:10px; text-align:center; border:1px solid #bebebf;}
+
+
+.htxt1{ font-size:18px; color:#257cc1; font-weight:bold; text-transform:uppercase; padding:0px 0px 25px 0px;}
+.htxt3{ font-size:14px; color:#bd2d35; font-weight:bold; text-transform:uppercase; padding:0px 0px 25px 0px;}
+/* bootsrap css edit */
+.navbar-collapse{padding:0px;}
+.dropdown .dropdown-toggle{padding:0px;}
+
+@media (max-width: 992px) {
+.logo{ text-align:center; padding:18px 0px 10px;}
+.ht_box p{ padding:2px 10px; float:right; }
+.catbtn{ width:100%; padding:4px;} 
+.getcoubtn{ width:100%; padding:4px; margin-top:4px;} 
+#middel_top_padding{padding-top:0px;}
+.navbar-fixed-top{position: relative;}
+
+/* form page css start */
+.midd_form{	padding:30px 0px;}
+
+/* bootsrap css edit */
+.navbar-collapse{padding:0px 15px;}
+.dropdown .dropdown-toggle{padding:0 0 0 10px;}
+.cartbox{ padding:8px 15px 5px 34px; }
+
+}
+@media (max-width: 768px) {
+body{background:#fff;} 
+.logo{ text-align:center; padding:30px 12px 12px;}
+.catbtn{ width:130px; padding:7px;} 
+.getcoubtn{ width:130px; padding:7px;} 
+.cartbox{ padding:8px 15px 5px 34px; top:10px; }
+#middel_top_padding{padding-top:0px;}
+.navbar-fixed-top{position: relative;}
+.hedpoint_box{padding:0px;}
+
+/* form page css start */
+.midd_form{	padding:30px 0px;}
+
+/* bootsrap css edit */
+.navbar-collapse{padding:0px 15px;}
+
+
+
+.copuon_main{margin: 0px;background-color: #fff;padding: 150px 30px 200px 30px;}
+.coupon-idsec {margin:0px; padding:0px;}
+.bg-imgid {background-image:url('http://tsmartcookies.bpsi.us/images/cad_bgimg_03.png'); height:387px; }
+.cuoun-cont{margin:0px; }
+.cuoun-cont .logo-cp{margin:16px 0 12px 0px; background-color:#fff;  text-align:center; padding:0px; width:100%; height:68px;}
+.coupon-infid{margin:0px; padding:8px 8px;}
+.coupon-infid h5{margin:0px 0px 7px 0px; padding:0px;]}
+.coup-clr{margin:0px; padding:0px; color:#ccc; font-size:18px;}
+.number-cpn {color:#fff; font-size:18px; font-weight:bolder;}
+.number-cpn2 {color:#fff;margin-top:8px; font-size:14px;}
+.pont-numsct{margin:0px 0px 0px 8px; padding:8px; background-color:#fff; width:120px;  height:120px; overflow:hidden;}
+.pont-numsct img{width:100%; height:100%;}
+.pnt-clr{color:#fff; font-weight:bold;}
+.colge_nm{background-color:#1c3b81;  margin:0 10px 0 9px; width:95%; padding:8px 12px;  }
+.img-brc { margin:0px ; padding:0px;}
+.clg_nm{margin:0px ;padding:0px; font-size:20px; color:#fff; text-align:center;}
+
+}
+
+
+

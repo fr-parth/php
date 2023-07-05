@@ -1,0 +1,5 @@
+SchoolID, SubjectID, SubjectCode, Subject, SubjectType, SubjectShortName, SubjectCredit
+BPSITS,200,ST1,Software Testing,Theory,ST,1
+BPSITS,201,AD1,Android,Theory,Andr,1
+BPSITS,202,PHP1,PHP,Theory,php,1
+BPSITS,203,DN1,Dot Net,Theory,DN,1
